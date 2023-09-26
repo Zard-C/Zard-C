@@ -24,4 +24,4 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zard-C&theme=radical&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Zard-C&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zard-C&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
