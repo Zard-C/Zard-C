@@ -4,7 +4,7 @@
 
 💼 Currently working at [Mach-Drive](http://www.mach-drive.com/) as a software engineer.
 
- 🔭 I'm currently diving deep into [rcl](https://github.com/ros2/rcl) and [rmw_fastrtps](https://github.com/ros2/rmw_fastrtps)
+ 🔭 I'm currently diving deep into [rclc](https://github.com/ros2/rclc) and [rmw_fastrtps](https://github.com/ros2/rmw_fastrtps)
   
 📫 You can reach out to me at [📧 patrick.zhang5233@gmail.com].
 
