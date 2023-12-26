@@ -10,7 +10,6 @@
 
 🔍 Here, you'll find the projects I'm involved in, the code I write, and my thoughts on technology.
 
-- An utility that helps me swap endian [EndianSwapUtility](https://github.com/Zard-C/EndianSwapUtility)
 - The notes of Programming Paradigms [CS107Notes](https://zard-c.github.io/CS107/)
 - Here's some demo codes of `rclc` [rclc_examples](https://github.com/Zard-C/rclc_example), which is a complement to `rclc/examples`.
 
