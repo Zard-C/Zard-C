@@ -2,7 +2,7 @@
 
 🌱 I'm a developer passionate about [ROS2](https://github.com/ros2).
 
-💼 Currently working at [Mach-Drive](http://www.mach-drive.com/) as a software engineer.
+💼 Currently working as a c/c++ programmer.
 
 🔭 I'm currently diving deep into [rclc](https://github.com/ros2/rclc) and [rclcpp](https://github.com/ros2/rclcpp)
   
