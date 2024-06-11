@@ -11,7 +11,7 @@
 🔍 Here, you'll find the projects I'm involved in, the code I write, and my thoughts on technology.
 
 - The notes of Programming Paradigms [CS107Notes](https://zard-c.github.io/CS107/)
-- Here's some demo codes of `rclc` [rclc_examples](https://github.com/Zard-C/rclc_example), which is a complement to `rclc/examples`.
+- Here're some demo codes of `rclc` [rclc_examples](https://github.com/Zard-C/rclc_example), which is a complement to `rclc/examples`.
 
 📖 I believe in lifelong learning and sharing, so I often share my knowledge on github pages [🚀](https://zard-c.github.io/CS107/)
 
