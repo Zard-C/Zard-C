@@ -1,4 +1,4 @@
-### Hi, I am [Zard-C](https://github.com/Zard-C)👋
+### Hi, I am Zard-C👋
 
 🌱 I'm a developer passionate about [ROS2](https://github.com/ros2).
 
