@@ -1,10 +1,10 @@
 ### Hi, I am Zard-C👋
 
-🌱 I'm a developer passionate about [ROS2](https://github.com/ros2).
+🌱 I'm a developer passionate about computer science, machine learning and deep learing ...
 
 💼 Currently working as a c/c++ programmer.
 
-🔭 I'm currently diving deep into [rclc](https://github.com/ros2/rclc) and [rclcpp](https://github.com/ros2/rclcpp)
+🔭 I'm currently diving deep into `machine learning` and `deep learning`
   
 📫 You can reach out to me at patrick.zhang5233@gmail.com
 
